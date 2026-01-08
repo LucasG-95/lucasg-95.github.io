@@ -280,7 +280,7 @@
       bullets: [
         'Asesoría técnica y diagnósticos; auditorías BPM/POES/MIP/HACCP/ISO.',
         'Manuales e instructivos (BPM, POES, MIP, HACCP, plan de retiro).',
-        'Trámites y habilitaciones: RNE, RNPA, memoria descriptiva y etiquetado legal.'
+        'Trámites y habilitaciones: RNE, RNPA, memoria descriptiva, etiquetado legal, Carnet de manipulación de alimentos.'
       ],
       extra: 'Detectamos no conformidades y definimos acciones correctivas con seguimiento documentado para minimizar riesgos regulatorios.',
       details: [
@@ -300,6 +300,8 @@
         // Trámites / Habilitaciones
         { icon:'bi-building-lock',        title:'RNE y habilitaciones',            desc:'Inscripción y renovación con memoria descriptiva.' },
         { icon:'bi-file-earmark-medical', title:'RNPA de productos',               desc:'Armado de legajos y presentación ante organismos.' },
+        { icon:'bi-person-badge',         title:'Carnet de manipulación de alimentos', desc:'Capacitación obligatoria, evaluación y certificación. Vigencia por 3 años.' },
+
 
         // Rotulado / Legal (vinculado también a Diseño)
         { icon:'bi-tag',                  title:'Rotulado CAA',                    desc:'Cumplimiento Código Alimentario Argentino.' },
