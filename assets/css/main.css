@@ -2563,7 +2563,7 @@ services-list a:hover {
   position: absolute;
   inset: 0;
 
-  /* RUTA CORREGIDA (desde main.css → subir un nivel y entrar en img/) */
+ 
   background: url("../img/bg-cta.jpg") center/cover no-repeat;
 
   filter: blur(6px);            /* blur aplicado en mobile y desktop */
